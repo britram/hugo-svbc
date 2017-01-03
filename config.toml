@@ -1,0 +1,30 @@
+baseurl = "https://smoothvalley.ch"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Brian Trammell"
+title = "Smooth Valley Brewing"
+pygmentsuseclasses = true
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+fixed = ":title/"
+blog = ":slug/"
+
+[params]
+author = "Brian Trammell"
+cachebuster = true
+dateform = "2 Jan 2006"
+dateformfull = "Mon 2 Jan 2006 15:04:05 MST"
+description = "Example blog"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+lang = "en"
+email = "brian@trammell.ch"
+twitter = "https://twitter.com/britram"
