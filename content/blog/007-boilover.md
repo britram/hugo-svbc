@@ -1,10 +1,11 @@
 ---
-title: 7 Boilover
+title: 7 - Boilover
 author: Brian Trammell
 tags:
   - steam
   - spezi
 date: 2016-02-21
+url: /boilover/
 ---
 
 Story of the boilovers. Decided to get a bigger brewpot.

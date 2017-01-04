@@ -1,10 +1,11 @@
 ---
-title: 8 Easter Steam
+title: 8 - Easter Steam
 author: Brian Trammell
 tags:
   - steam
   - spezi
 date: 2016-03-21
+url: /easter-steam/
 ---
 
 Tell the story of getting the Brewmeister. Straight up running a recipe to see how the Brewmeister works. Yield was crap. Beer was pretty good though.

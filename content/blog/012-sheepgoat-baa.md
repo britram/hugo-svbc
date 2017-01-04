@@ -1,9 +1,10 @@
 ---
-title: 12 Sheepgoat (Rev Baa)
+title: 12 - Sheepgoat (Rev Baa)
 author: Brian Trammell
 tags:
   - ipa
 date: 2016-12-27
+url: /sheepgoat-baa/
 ---
 
 frontmatter: Sheepgoat B worked out really well, so more of the same. Tweaked the mash program as an experiment. 

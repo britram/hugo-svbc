@@ -1,10 +1,11 @@
 ---
-title: 6 Long Night Ale
+title: 6 - Long Night Ale
 author: Brian Trammell
 tags:
   - steam
   - spezi
 date: 2016-01-16
+url: /long-night/
 ---
 
 an experiment in how dark a partial mash-extract beer can be. submitted to SIOS Trophy 2016 where it was rated thoroughly median.
