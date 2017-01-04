@@ -1,5 +1,5 @@
 ---
-title: 12 - Sheepgoat (Rev Baa)
+title: 12 - Sheepgoat (Rev. Baa)
 author: Brian Trammell
 tags:
   - ipa

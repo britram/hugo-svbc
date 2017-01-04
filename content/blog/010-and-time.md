@@ -50,7 +50,6 @@ hops as follows, as called for by the recipe:
 - Flavor: 20 min 30g 2.4% Tettnanger
 - Aroma: 5 min 26g 13.2% Saazer
 
-
 ## Pitching and Fermentation
 
 Cooling to 24&deg;C with an immersion cooler took 27 minutes. Initial gravity

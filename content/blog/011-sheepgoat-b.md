@@ -1,5 +1,5 @@
 ---
-title: 11 - Sheepgoat (Rev B)
+title: 11 - Sheepgoat (Rev. B)
 author: Brian Trammell
 tags:
   - ipa
@@ -11,9 +11,11 @@ url: /sheepgoat-b/
 - - -
 
 I liked [Sheepgoat](/sheepgoat/), but it was (unsurprisingly) a little
-caramel-malty (due to the Münchner malt), which wasn't quite what I was going
-for. So in the spirit of completely uncontrolled experimentation, I dropped
-the Münchner, added a little light wheat malt, and switched to a simpler malt program.
+caramel-malty (due to the Münchner malt), and the hops also weren't quite what
+I was going for. I did want to keep the name though. So in the spirit of
+completely uncontrolled experimentation, I dropped the Münchner, added a
+little light wheat malt, and switched to a simpler, lower temperature malt
+program to make the result more fermentable.
 
 ## Grain Bill
 
