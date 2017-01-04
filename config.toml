@@ -1,4 +1,4 @@
-baseurl = "https://smoothvalley.ch/"
+baseurl = "http://smoothvalley.ch/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
