@@ -12,8 +12,9 @@ url: /sheepgoat-baa/
 
 ![mmm hops](/img/sheepgoat-baa-brewing.jpg)
 
-This was a tiny tweak to [Sheepgoat Rev. B](/sheepgoat-b/) for experimental purposes: I modified the mash program to add a short, warm protein rest and a short dextrose rest to the 
-
+This was a tiny tweak to [Sheepgoat Rev. B](/sheepgoat-b/) for experimental
+purposes: I modified the mash program to add a short, warm protein rest and a
+short dextrose rest. Efficiency was a bit better... but still not great.
 
 ## Grain Bill
 
