@@ -39,7 +39,7 @@ for by the recipe:
 - 15 min @ 72&deg;C
 - 5 min @ 78&deg;C
 
-I sparged with 9L at 78&deg;C, two liters at a time. Mashing out took about  60 minutes.
+I sparged with 9L at 78&deg;C, two liters at a time. Mashing out took about 60 minutes.
 
 ## Boil
 

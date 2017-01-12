@@ -13,3 +13,5 @@ Details coming soon. This was mainly an experiment in how dark a partial mash-
 extract beer can be and still be drinkable, and it worked out pretty well. I
 submitted it to the SIOS Trophy 2016, my first competition, which rated it as
 thoroughly median (average of 8 ratings was 26.75/36).
+
+![SIOS Trophy 2016](/img/sios-trophy-16.jpg)
