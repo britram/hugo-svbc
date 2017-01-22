@@ -58,5 +58,9 @@ a further three days. Final gravity was 2.1&deg;P, for 5.1% ABV.
 
 ![look, pressure](/img/sheepgoat-kegged.jpg)
 
-I added 95g of light DME to 250mL of water, boiled and cooled, put it in an 18L Cornelius keg, then added 17.75L of beer from the fermenter to the keg. I pressurized to 250 hPa to make sure the seals held. I'm currently holding the keg at 22&deg;C for secondary fermentation, then it'll be off to the cellar for a month or two at around 14&deg;C, weather depending.
+I added 95g of light DME to 250mL of water, boiled and cooled, put it in an
+18L Cornelius keg, then added 17.75L of beer from the fermenter to the keg. I
+pressurized to 250 hPa to make sure the seals held. I'm currently holding the
+keg at 22&deg;C for secondary fermentation, and moved it down to the cellar
+after two weeks for a month or two at around 15&deg;C.
 

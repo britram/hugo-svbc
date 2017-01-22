@@ -65,5 +65,6 @@ the remaining 6.2 in a corny keg.
 
 ## How is it, then?
 
-Dark but crisp. The Kölsch yeast gives it a definite ale character, but it's not too... kölschy. Next up is an experiment with the same grain bill but different hops and yeast.
+Dark but crisp. The Kölsch yeast gives it a definite ale character, but it's
+not too... kölschy.
 

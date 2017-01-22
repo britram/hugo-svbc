@@ -15,3 +15,6 @@ submitted it to the SIOS Trophy 2016, my first competition, which rated it as
 thoroughly median (average of 8 ratings was 26.75/36).
 
 ![SIOS Trophy 2016](/img/sios-trophy-16.jpg)
+
+A year later, I still had two of these in the bottle. I opened one on 21 Jan
+2017, and it's held up nicely.
