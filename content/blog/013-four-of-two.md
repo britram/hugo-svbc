@@ -4,13 +4,13 @@ tags:
   - dark
 date: 2017-01-14
 url: /four-of-two/
+draft: true
 ---
 
-**Brewed** *14 Jan 2017* | **Kegged** *21 Jan 2017* | **Yield** *18 L / 6.1% (x.xx&deg;P &#x2192; 3.3&deg;P)*
+**Brewed** *14 Jan 2017* | **Kegged** *21 Jan 2017* | **Yield** *18 L / 6.1% (14.7&deg;P &#x2192; 3.3&deg;P)*
 - - -
 
-This was a relatively large tweak to  
-[...and time is still marching on](/and-time/): 
+This was a relatively large tweak to [...and time is still marching on](/and-time/): 
 starting with the same grain bill, adding some dark malt extract I had lying
 around from [Long Night](/long-night/) and a dash of honey to up the gravity,
 swapping out the yeast and the hops to make it a bit less Alt and to nudge it
@@ -37,40 +37,26 @@ time-related song title theme.
 
 [FIXME this isn't the actual mash program]
 
-I mashed in 20L water at 46&deg;C, and ran the five-rest mash program called
-for by the recipe:
-
-- 10 min @ 46&deg;C
-- 10 min @ 53&deg;C 
-- 30 min @ 62&deg;C
-- 15 min @ 72&deg;C
-- 5 min @ 78&deg;C
+I mashed in 20L water at 46&deg;C, and ran a three-rest mash program, details coming soon.
 
 I then sparged with 8L water at 78&deg;C. As with the [last brew](/sheepgoat-baa/), mashing out was relatively quick at 25 minutes. I suspect this has something to do with the grain mill at SIOS -- this grain bill was ground at the same time as Sheepgoat's.
 
 ## Boil
 
-I boiled the wort for five minutes before adding the first hops, then added hops as follows:   
-
-[FIXME these aren't the actual hops]
-
-- Bittering: 60 min 27g 13.3% Pacific Jade
-- Flavor: 30 min 10g 13.2% Citra 
-- Flavor: 30 min 12g 11.9% Chinook
-- Aroma: 2 min 20g 13.2% Citra 
-- Aroma: 2 min 10g 11.9% Chinook 
-- Aroma: 2 min 10g 13.3% Pacific Jade
-
-I added the DME and honey ten minutes before knockout.
+I boiled the wort for five minutes before adding the first hops, then added
+Chinook, Cascade, and Mandarina Bavaria hops; details coming soon. I added the
+DME and honey ten minutes before knockout.
 
 ## Pitching and Fermentation
 
 [FIXME fill in the Xs]
 
-Cooling to 23.5&deg;C with an immersion cooler took XX minutes. Initial gravity
-was xx.x&deg;P. I pitched Wyeast 1xxx Denny's Favorite; extremely enthusiastic fermentation
-started after about 6 hours, and lasted three days. Slow fermentation continued
-a further three days. Final gravity was 3.3&deg;P, for 6.1% ABV.
+Cooling to 23.5&deg;C with an immersion cooler took XX minutes. Initial
+gravity was 14.7&deg;P. I pitched a smack pack of Wyeast 1450 
+[Denny's Favorite](https://wyeastlab.com/yeast-strain/dennys-favorite-50-ale); 
+extremely enthusiastic fermentation started after about 6 hours, and
+lasted three days. Slow fermentation continued a further three days. Final
+gravity was 3.3&deg;P, for 6.1% ABV.
 
 # Kegging
 
