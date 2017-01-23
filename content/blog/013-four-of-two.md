@@ -4,7 +4,6 @@ tags:
   - dark
 date: 2017-01-14
 url: /four-of-two/
-draft: true
 ---
 
 **Brewed** *14 Jan 2017* | **Kegged** *21 Jan 2017* | **Yield** *18 L / 6.1% (14.7&deg;P &#x2192; 3.3&deg;P)*
@@ -35,8 +34,6 @@ time-related song title theme.
 
 ## Mash
 
-[FIXME this isn't the actual mash program]
-
 I mashed in 20L water at 46&deg;C, and ran a three-rest mash program, details coming soon.
 
 I then sparged with 8L water at 78&deg;C. As with the [last brew](/sheepgoat-baa/), mashing out was relatively quick at 25 minutes. I suspect this has something to do with the grain mill at SIOS -- this grain bill was ground at the same time as Sheepgoat's.
@@ -48,8 +45,6 @@ Chinook, Cascade, and Mandarina Bavaria hops; details coming soon. I added the
 DME and honey ten minutes before knockout.
 
 ## Pitching and Fermentation
-
-[FIXME fill in the Xs]
 
 Cooling to 23.5&deg;C with an immersion cooler took XX minutes. Initial
 gravity was 14.7&deg;P. I pitched a smack pack of Wyeast 1450 
