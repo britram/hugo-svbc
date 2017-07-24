@@ -40,35 +40,12 @@ Plan to run the same simple program as Sheepgoat:
 
 ## Boil
 
-Hopping should be  
-
-- Bittering: 60 min 27g 13.3% Pacific Jade
-- Flavor: 30 min 10g 13.2% Citra 
-- Flavor: 30 min 12g 11.9% Chinook
-- Aroma: 2 min 20g 13.2% Citra 
-- Aroma: 2 min 10g 11.9% Chinook 
-- Aroma: 2 min 10g 13.3% Pacific Jade
+Hopping should be lighter and in character; still have some Mandarina Bavaria so let's try that. 25g bittering, 25g flavor, no aroma.
 
 ## Pitching and Fermentation
 
-Cooling to 19&deg;C with an immersion cooler took 26 minutes: colder tap water
-in winter made this significantly faster than the last brew. Initial gravity
-was 11.7&deg;P. I pitched Wyeast 1332 Northwest Ale; enthusiastic fermentation
-started after about 12 hours, and lasted six days. Slow fermentation continued
-a further three days. Final gravity was 2.1&deg;P, for 5.1% ABV.
+Plan to cool to 20&deg;C with an immersion cooler, pitch a suitable Belgian yeast.
 
 # Kegging
 
-![look, pressure](/img/sheepgoat-kegged.jpg)
-
-I added 95g of light DME to 250mL of water, boiled and cooled, put it in an
-18L Cornelius keg, then added 17.75L of beer from the fermenter to the keg. I
-pressurized to 250 hPa to make sure the seals held. I'm currently holding the
-keg at 22&deg;C for secondary fermentation, and moved it down to the cellar
-after two weeks for a month or two at around 15&deg;C.
-
-# How is it, then?
-
-The tweak to the mash program added a barely perceptible body to the beer. This
-is a solid, not-too-hoppy pale ale, and the one I'll keep brewing as my "I want
-a beer" beer. 
+I'm out of light DME, so plan to prime with table sugar.
