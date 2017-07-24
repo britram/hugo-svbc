@@ -10,13 +10,7 @@ url: /halfwit/
 **Brewed** *not yet* | **Kegged** *not yet* | **Yield** *not yet*
 - - -
 
-This is an attempt to get something that kind of tastes like a Belgian wit without having to go to all the trouble of dealing with unpalted wheat
-
-![mmm hops](/img/sheepgoat-baa-brewing.jpg)
-
-This was a tiny tweak to [Sheepgoat Rev. B](/sheepgoat-b/) for experimental
-purposes: I modified the mash program to add a short, warm protein rest and a
-short dextrose rest. Efficiency was a bit better... but still not great.
+This is an attempt to get something that kind of tastes like a Belgian wit without having to go to all the trouble of dealing with unmalted wheat.
 
 ## Grain Bill
 
