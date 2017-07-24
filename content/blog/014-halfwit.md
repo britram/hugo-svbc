@@ -1,14 +1,16 @@
 ---
-title: 12 - Sheepgoat (Rev. Baa)
+title: 14 - Unnamed Halfwit
 author: Brian Trammell
 tags:
   - ipa
-date: 2016-12-27
-url: /sheepgoat-baa/
+date: 2017-08-01
+url: /halfwit/
 ---
 
-**Brewed** *27 Dec 2016* | **Kegged** *7 Jan 2017* | **Yield** *18 L / 5.1% (11.7&deg;P &#x2192; 2.1&deg;P)*
+**Brewed** *not yet* | **Kegged** *not yet* | **Yield** *not yet*
 - - -
+
+This is an attempt to get something that kind of tastes like a Belgian wit without having to go to all the trouble of dealing with unpalted wheat
 
 ![mmm hops](/img/sheepgoat-baa-brewing.jpg)
 
@@ -18,26 +20,27 @@ short dextrose rest. Efficiency was a bit better... but still not great.
 
 ## Grain Bill
 
-- 3900g Pale Ale malt (7 EBC)
-- 350g Light Wheat malt (4 EBC)
-- 270g Caramünch 2 (120 EBC)
-- 100g Carapils (5 EBC)
+- 2270g Pilsner malt (7 EBC)
+- 2270g Light Wheat malt (4 EBC)
+- 80g Carapils (5 EBC)
 - 80g Acid Malt (5 EBC)
+
+## Adjuncts
+
+- Organic orange peel (enough)
+- Coriander (enough)
 
 ## Mash
 
-I mashed in 23L water at 57&deg;C, and ran a simple three-rest mash program:
+Plan to run the same simple program as Sheepgoat:
 
 - 10 min @ 57&deg;C
 - 60 min @ 63&deg;C 
 - 15 min @ 67&deg;C
 
-I then sparged with 8L water at 78&deg;C. In contrast to previous brews,
-sparging only took 25 minutes to complete.
-
 ## Boil
 
-I boiled the wort for five minutes before adding the first hops, then added hops as follows:   
+Hopping should be  
 
 - Bittering: 60 min 27g 13.3% Pacific Jade
 - Flavor: 30 min 10g 13.2% Citra 
