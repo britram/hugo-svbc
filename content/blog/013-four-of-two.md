@@ -41,7 +41,10 @@ I mashed in 20L water at 46&deg;C, and ran a four-rest mash program:
 - 30 min @ 67&deg;C
 - 5 min @ 78&deg;C
 
-I then sparged with 8L water at 78&deg;C. As with the [last brew](/sheepgoat-baa/), mashing out was relatively quick at 25 minutes. I suspect this has something to do with the grain mill at SIOS -- this grain bill was ground at the same time as Sheepgoat's.
+I then sparged with 8L water at 78&deg;C. As with the [last
+brew](/sheepgoat-baa/), mashing out was relatively quick at 25 minutes. I
+suspect this has something to do with the grain mill at SIOS -- this grain bill
+was ground at the same time as Sheepgoat's.
 
 ## Boil
 
@@ -66,11 +69,16 @@ gravity was 3.2&deg;P, for 6.2% ABV.
 
 # Kegging
 
-I added 95g of light DME to 300mL of water, boiled and cooled, put it in an
-18L Cornelius keg, then added 17.7L of beer from the fermenter to the keg. I
-pressurized to 250 hPa to make sure the seals held. I held the keg at 22&deg;C for secondary fermentation for three weeks before moving it into the cellar. I let it age there for about six months before sticking it in the fridge and tapping it.
+I added 95g of light DME to 300mL of water, boiled and cooled, put it in an 18L
+Cornelius keg, then added 17.7L of beer from the fermenter to the keg. I
+pressurized to 250 hPa to make sure the seals held. I held the keg at 22&deg;C
+for secondary fermentation for three weeks before moving it into the cellar. I
+let it age there for about six months before sticking it in the fridge and
+tapping it.
 
 # How is it, then?
 
-Perfectly drinkable but a little boring. There's not much character from the honey, just alcohol, and I suspect that the dark DME is dominating the flavor a bit.
-
+Perfectly drinkable and nicely boozy, but a little boring. There's not much
+character from the honey, just alcohol, and I suspect that the dark DME is
+dominating the flavor a bit; there's a little extract twang, too. This is
+probably my last experiment with adding DME to a Braumeister extraction.
