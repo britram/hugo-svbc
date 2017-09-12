@@ -1,5 +1,5 @@
 ---
-title: 14 - Zavantem City Limits
+title: 14 - Zaventem City Limits
 author: Brian Trammell
 tags:
   - ale
@@ -77,7 +77,9 @@ well with orange peel in the mix. Initial gravity was 10.7&deg;P. I pitched
 Wyeast 3944 Belgian Wit to 23L of wort. Enthusiastic fermentation started after
 about 6 hours, and continued for three days. 
 
-# Kegging
+# Bottling and Kegging
+
+![ZCL in bottles](/img/zaventem-bottles.jpg)
 
 Final yield was 20.5L, primed with 107g table sugar in 500mL of water, kegged
 7.75L and bottled the remainder.
